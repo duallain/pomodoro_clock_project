@@ -14,8 +14,8 @@ bool matrix_setup = false;
 // gpio pin of each button
 const int startButtonPin = 13;
 const int stopButtonPin = 12;
-const int nextButtonPin = 10;
 const int resetButtonPin = 11;
+const int nextButtonPin = 10;
 
 
 // creating the automaton state machine objects
